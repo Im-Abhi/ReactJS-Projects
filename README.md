@@ -9,3 +9,9 @@ This repo contains all my ReactJS projects.
 5. [25+5 Clock](https://github.com/Im-Abhi/PomoDoro-Clock)
 
 You can check them out directly by clicking any one of the above links.
+
+### Technologies Used
+- HTML
+- CSS
+  - SCSS
+- JS
